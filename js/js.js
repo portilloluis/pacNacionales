@@ -26,16 +26,13 @@ $(document).ready(function(){
        loop: true,
        responsive: {
           0: {
-            items: 1,
+            items: 1
           },
           600: {
-            items: 2,
+            items: 2
           },
           1000: {
-            items: 3,
-          },
-          1600: {
-            items: 4,
+            items: 3
           }
        }
    })
@@ -54,9 +51,6 @@ $(document).ready(function(){
           },
           1000: {
             items: 3
-          },
-          1600: {
-            items: 4,
           }
        }
    })
